@@ -1,0 +1,34 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "path": "pages/introduccion.html"
+  }, 
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "tema-1",
+    "title": "1. Objetivos de desarrollo sostenible y agenda 2030",
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.1 Generalidades de los Objetivos de Desarrollo Sostenible y la Agenda 2030.",
+        "anchor": "tema-1-1"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "tema-2",
+    "title": "2. Documentos requeridos para la constitución de una EAT",
+    "path": "pages/tema-2.html" 
+  }
+]
