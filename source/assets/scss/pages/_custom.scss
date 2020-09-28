@@ -467,3 +467,9 @@ EMPIEZAN LAS MEDIAS QUERIES
 .borde-naranja {
     border-bottom:3px solid $orange;
 }
+
+.bg-gradiente-tema {
+    background: transparent radial-gradient(closest-side at 50% 50%, #FDFBF7 0%, #F4E9D4 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 3px #B8B8B84D;
+    border-radius: 3px;
+}

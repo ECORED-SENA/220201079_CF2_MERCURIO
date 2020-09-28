@@ -22,13 +22,52 @@
         "slug": "tema-1",
         "title": "1.1 Generalidades de los Objetivos de Desarrollo Sostenible y la Agenda 2030.",
         "anchor": "tema-1-1"
+      },
+      {
+        "icon": "fa fa-question-circle",
+        "slug": "tema-1",
+        "title": "Actividad didáctica: ¡Conecta tu conocimiento!",
+        "anchor": "actividad-1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.2 Relación de los ODS con el Convenio de Minamata",
+        "anchor": "tema-12"
+      },
+      {
+        "icon": "fa fa-question-circle",
+        "slug": "tema-1",
+        "title": "Actividad didáctica: ¡Relación de los ODS con el Convenio de Minamata!",
+        "anchor": "actividad-2"
       }
     ]
   },
   {
     "icon": "fa fa-play-circle",
     "slug": "tema-2",
-    "title": "2. Documentos requeridos para la constitución de una EAT",
-    "path": "pages/tema-2.html" 
+    "title": "2. Sitios contaminados por mercurio",
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": "2.1 Conceptos iniciales, fuentes y efectos de la contaminación",
+        "anchor": "tema-2-1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": "2.2 Identificación de un sitio contaminado",
+        "anchor": "tema-2-2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": " 2.3 Estado actual de los sitios contaminados con mercurio en Colombia",
+        "anchor": "tema-2-3"
+      }
+     
+    ]
   }
 ]
