@@ -56,6 +56,12 @@
         "anchor": "tema-2-1"
       },
       {
+        "icon": "fa fa-question-circle",
+        "slug": "tema-2",
+        "title": "Actividad didáctica: Fuentes de contaminación",
+        "anchor": "actividad-21"
+      },
+      {
         "icon": "fa fa-file-text",
         "slug": "tema-2",
         "title": "2.2 Identificación de un sitio contaminado",
