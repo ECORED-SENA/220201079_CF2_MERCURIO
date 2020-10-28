@@ -35,10 +35,9 @@ html(lang="es")
                             .card-body
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
                                     +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'Cumplimiento de requisitos de una Empresa Asociativa de Trabajo', '#tema-1')
-                                    +navTemaItem('2', 'Documentos requeridos para la constitución de una Empresa Asociativa de Trabajo', '#tema-2')
+                                    +navTemaItem('1', 'Objetivos de desarrollo sostenible y agenda 2030', '#tema-1')
+                                    +navTemaItem('2', 'Sitios contaminados por mercurio', '#tema-2')
                                     +navTemaItem('glosario', 'Glosario', '#glosario')
-                                    +navTemaItem('complementario', 'Material complementario', '#anexos')
                                     +navTemaItem('referencias', 'Referencias bibliográficas', '#referencias')
 
 
@@ -52,8 +51,6 @@ html(lang="es")
 
             #glosario
                 include pages/glosario.pug
-            #anexos
-                include pages/material-complementario.pug
             #referencias
                 include pages/referencias.pug
 
